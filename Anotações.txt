@@ -11,3 +11,5 @@
     	1º Clicar no botão de acrescentar uma nova pasta compartilhada e selecionar as opções de montar automaticamente e tornar permanente.
     	Não selecionar a opção de apenas leitura, pois não vai permitir realizar alterações na pasta em outra máquina.
     	2º Na opção de caminho da pasta, selecionar a opção “outro...” e apontar qual pasta deseja o compartilhamento entre a máquina real e virtual.
+- Instalação de programas
+    1º notepad ++, brModelo e StarUML
