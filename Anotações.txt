@@ -1,2 +1,4 @@
-Link dos arquivos
-https://www.dropbox.com/sh/dnvvg3dvwbmla0u/AACJj-BkIHgjO-l_kenEOwPda?dl=0
+
+- Virtualização
+    - Área de Transferência Compartilhada
+        Opção Bi-direcional permite copia e cola entre a máquina real e virtual
