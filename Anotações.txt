@@ -12,4 +12,61 @@
     	Não selecionar a opção de apenas leitura, pois não vai permitir realizar alterações na pasta em outra máquina.
     	2º Na opção de caminho da pasta, selecionar a opção “outro...” e apontar qual pasta deseja o compartilhamento entre a máquina real e virtual.
 - Instalação de programas
-    1º notepad ++, brModelo e StarUML
+    - 1º notepad ++, brModelo e StarUML
+    - 2º Instalação do MySQL
+        - Executar e escolher a opção custom (customizar)
+    - MySQL Servers
+        
+        → MySQL Server → MySQL Server 5.5 → final X86 (32bits). Escolher esse tipo pois ele não depende de bibliotecas da microsoft como requer no 64bits
+        
+    - Applications
+        - MySQL WorkBench
+            
+            É a ferramenta gráfica do MySQL
+            
+        - MySQL Shell (Não tão necessário)
+    - MySQL Connectors
+        
+        Connector/ODBC
+        
+    - Documentation
+        
+        MySQL Documentation
+        
+    - Samples and Examples
+        
+        
+- Check Requirements (Dependências necessárias para uso)
+    
+    Clique em “Execute” para instalar as dependências antes do “Next”.
+    
+- Installation
+    
+    Clique em “Execute” para instalação. 
+    
+    Quando o status for “Complete” para todos clicar em “Next”.
+    
+- Type and Networking
+    
+    Selecionar a opção “Show Advanced Options”
+    
+- Accounts and Roles
+    - Root Account Password
+        
+        Criar senha de root “1234”
+        
+    - MySQL User Accounts
+        
+        Clicar em Add User e criar usuário e senha.  O Role “DB Admin” possui controle total do banco, tendo assim o mesmo poder do root.
+        
+- Windows Service
+    
+    Obs: É importante sempre verificar nos serviços do windows, se os serviços do banco estão rodando.
+    
+- Advanced Options
+    
+    Pode selecionar todas as opções e depois em “NEXT”
+    
+- Apply Configuration
+    
+    Clicar em “Execute” que irá aplicar todas as configurações e por fim clicar em “Finish”
