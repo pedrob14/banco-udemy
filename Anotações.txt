@@ -1,4 +1,10 @@
 
 - Virtualização
-    - Área de Transferência Compartilhada
+    - Dispositivos → Inserir imagem de CD dos adicionais para convidados
+   	Vai montar uma unidade de CD no computador virtual
+    	Ao clicar na unidade de CD, executar “VBoxWindowsAdditions”.
+	Esse arquivo irá instalar os aplicativos necessários para uso.
+    	Ao instalar ele ajusta a resolução conforme muda de tamanho
+    - Dispositivos → Área de Transferência Compartilhada
         Opção Bi-direcional permite copia e cola entre a máquina real e virtual
+    
