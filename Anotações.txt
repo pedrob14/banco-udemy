@@ -1,4 +1,4 @@
-
+- Seção 1
 - Virtualização - VirtualBox
     - Dispositivos → Inserir imagem de CD dos adicionais para convidados
    	Vai montar uma unidade de CD no computador virtual
@@ -70,3 +70,8 @@
 - Apply Configuration
     
     Clicar em “Execute” que irá aplicar todas as configurações e por fim clicar em “Finish”
+
+	- O papel do Banco de Dados
+    
+    	  Gerenciar os dados e armazenar infomações de um sistema.
+          Enquanto o papel do Front End mostra as informações que estão dentro do banco de forma amigável para o usúario em uma determinada tela.
